@@ -1,3 +1,3 @@
-feature1
+feature2
 conflict 2
 
